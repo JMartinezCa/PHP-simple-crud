@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.message {
+    color: white;
+    margin-block: 20px;
+}
+
+.message p{
+    padding: 20px;
+}
+
+.success{
+    background-color: green;
+}
+
+.fail{
+    background-color: red;
+}
